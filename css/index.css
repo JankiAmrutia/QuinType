@@ -1,0 +1,40 @@
+
+.header{
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+     padding:15px
+}
+.company-header{
+  font-family: Lato;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+img{
+    height: 50px;
+    width:50px;
+}
+.content{
+    opacity: 0.7;
+  background-color: #f4f4f4;
+}
+
+.search{
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;      
+}
+.logo{
+    height: 30px;
+    width: 30px;
+}
+.footer{
+    background: black;
+    padding:10px;
+   
+}
+.contact{
+        float: right;
+        color:white;
+    }
