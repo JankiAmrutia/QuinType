@@ -89,6 +89,11 @@ img{
 #content2{
     padding:30px;
 }
+.business-content{
+    padding-top:20px;
+     opacity: 0.7;
+    background-color: #f4f4f4;
+}
 .travel{
     height: 40%;
     width: 100%;
