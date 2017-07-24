@@ -10,13 +10,17 @@
   font-weight: bold;
   text-align: left;
   color: #000000;
+background: white;
 }
 img{
     height: 50px;
     width:50px;
 }
+#content{
+    padding:30px;
+}
 .content{
-    opacity: 0.7;
+  opacity: 0.7;
   background-color: #f4f4f4;
 }
 
@@ -38,3 +42,64 @@ img{
         float: right;
         color:white;
     }
+
+.template-image img{
+    height: 50%;
+    width: 100%;
+    padding-top:30px;
+}
+
+.template-content{
+    padding: 10px;
+    font-family: Lato;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1.6px;
+  text-align: left;
+  color: #000000;
+}
+
+.line{
+  width: 73px;
+  height: 3px;
+  border: solid 3px #edd30d;
+}
+.sub-heading{
+  font-family: Lato;
+  font-size: 30px;
+  line-height: 1.24;
+  text-align: left;
+  color: #222222;
+}
+
+.sub-content{
+    font-family: Lato;
+  font-size: 18px;
+  line-height: 1.56;
+  text-align: left;
+  color: #5c5c5c;
+}
+.author-name{
+     font-family: Lato;
+  font-size: 12px;
+  text-align: left;
+  color: #818181;
+}
+
+/*
+#content2{
+    padding:30px;
+}
+*/
+.travel{
+    height: 40%;
+    width: 100%;
+}
+.travel-content{
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1.3px;
+  text-align: left;
+  color: #000000;
+}
